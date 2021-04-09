@@ -4,7 +4,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ji2z&show_icons=true&theme=great-gatsby&hide=issues)
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=hohomua)](https://solved.ac/hohomua)
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=hohomua)](https://solved.ac/hohomua)
 
 
 <!--
